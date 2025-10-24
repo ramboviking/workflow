@@ -49,6 +49,7 @@ Cộng tác viên bán hàng theo Chính sách bán hàng quy định.
 ### Protocol
 Định kỳ hàng tháng, đơn vị kinh doanh lập bảng kê để quyết toán cho cộng tác viên.
 BẢNG KÊ
+
 | CTV| KH | Invoice num | Invoice date | DT | Tỷ lệ | Chi phí |
 | --- | --- | --- | --- | --- | --- | --- |
 |   |   |   |   |   |   |   |
